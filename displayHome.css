@@ -1,0 +1,88 @@
+@charset "UTF-8";
+
+.navbar{
+    background-color: black;
+    position: fixed;
+  top: 0;
+  width: 100%;
+}
+.Row1{
+	padding-top: 100px;
+}
+.nav-link{
+	color:black;
+}
+.nav-link:hover{
+    border-bottom: 4px solid blue;
+}
+.homecontent{
+    font-size: 50px;
+    font-weight: 800;
+}
+.homecontent2{
+    font-size: 18px;
+}
+.homebtn{
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px;
+    padding-left: 12px;
+    padding-right: 15px;
+    font-weight: 500;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.homebtn:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.homecontent3{
+    font-size: 45px;
+    font-weight: 500;
+}
+.homecontent4{
+    font-size: 20px;
+    line-height: 25px;
+}
+.homecontent5{
+    font-size: 30px;
+    font-weight: 700;
+}
+.homecontent6{
+    line-height: 30px;
+}
+.cards{
+    width: 280px;
+    /* border: solid black; */
+}
+.cardmeet{
+    color: blue;
+    text-decoration: none;
+}
+.cardcontent1{
+    padding: 10px;
+    background-color: #fff;
+}
+.homecards{
+    width: 350px;
+    height:450px;
+    padding:25px;
+}
+.cardimg{
+    width:275px;
+}
+.footericon{
+    text-align: center;
+  }
+  .footericon i{
+    box-sizing: border-box;
+    background-color: #363030;
+    padding: 10px;
+    font-size: 15px;
+    margin: 15px;
+  }
+  .footericon a{
+    color: white;
+  }
+  .welcome{
+  margin-right:50px;
+  }

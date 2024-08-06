@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+/* display.css */
+
+.selected {
+    background-color: #a6dcef !important; /* Different blue for selected row */
+}
+
